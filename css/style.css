@@ -44,7 +44,7 @@ header{
 }
 
 .nav-link{
-    color: var(--item-color);
+    color: var(--item-color) !important;
 }
 
 .navbar-brend{
