@@ -43,6 +43,10 @@ header{
     color: var(--item-color);
 }
 
+.nav-link{
+    color: var(--item-color);
+}
+
 .navbar-brend{
     font-size: 25px;
     font-family: 'Indie Flower', cursive;
